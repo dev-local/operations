@@ -40,6 +40,7 @@
 * Make a pot of coffee. Beans, scale, filters, and grinder are all on the coffee bar. The instructions for how to make coffee are posted by the machine.
 * Refill tea pot and K-Cup machine with filtered water.
 * Help people who need help and answer questions as needed.
+* Send an email with the subject line "Notes from the DevLocal front desk -- date"
 
 
 
