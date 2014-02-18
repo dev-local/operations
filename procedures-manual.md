@@ -58,7 +58,7 @@
 
 ###OFFICE SUPPLIES & GENERALITIES
 
-###Inventory and location of what we have
+####Inventory and location of what we have
 
 Extra office supplies are located in the storage area in a haphazard arrangement. We have:
 * Screws and nuts and bolts
@@ -72,40 +72,40 @@ There are also office supplies in the front desk small drawers, like tape, sciss
 
 In a pinch, additional chargers/cables can be found in the Open Device lab drawer devotes to chargers and cables.
 
-###How to get a ladder
+####How to get a ladder
 
 Right now we have a ladder! It is in the storage area. If the people who we, um, borrowed it from come for it, we’ll need to get a ladder elsewhere. To do this: go downstairs to the wine shop, and ask the guy who is working there for one. He is the building manager type dude, and he can get you one.
 
-###Petty Cash
+####Petty Cash
 
 Petty cash of $50 is located in the top drawer of Autumn’s side desk (the grey thing with the awesome plant on top of it). Please put your receipt and note details of expenditures on the slip of paper in the envelope.
 
-###Fedex Account
+####Fedex Account
 The Fedex account number for DevLocal/Formidable Labs (for admin only, not for members to use) is #523344447.
 
 ###LIGHTS & HEAT
 
-###Heat
+####Heat
 
 There are thermostats in the lounge area by the coffeebar, and in the private offices. If the heat isn’t working or is too loud or is too effective at working, contact Michael to have it fixed (see contact info at the end of this document).
 
-###Which Lights Come On When
+####Which Lights Come On When
 
 Turn all lights on when you come in. There is a list of lights by the front door. The bar lighting is on a dimmer switch if you need to set the mood for the evening for an event.
 
-###Remote Control for Lighting
+####Remote Control for Lighting
 
 To add or reset the lighting remote control modules (that the floor lamps are plugged into) hold down the yellow “Learning” button on the side of the module until the red LED on the front flashes. Let go of the yellow button, and hit the “on” button on the remote that you want to synch it to. 
 
 The desks are also on the remote, so if the lights or power strips aren’t working, check and reconnect the two remote control modules that the extension cords are attached to. There are additional remotes and an additional plug module in the red storage shelving area.
 
-###Spare Lightbulbs
+####Spare Lightbulbs
 
 All kinds are located in a single cube in the red storage box, including bulbs for the overhead cans, the bar pendants, and the floor lights.
 
 ###WATERING THE PLANTS
 
-###Schedule
+####Schedule
 
 Large Plants (check on the 1st and 15th):
 The large potted plants are in self watering pots. In each pot you will see a black dipstick coming out of the red cylinder. If the dipstick is high in the pot, and goes down a lot when depressed with a finger, there is water in the pot. If it is low, add a gallon of water with 7 drops of plant food to the pot by pouring into the red cylinder. 
@@ -125,11 +125,11 @@ There are small glass whiteboards adjacent to each meeting room where reservatio
 
 ###SELLING NEW MEMBERSHIPS/GIVING TOURS
 
-###Types & Perks of Each
+####Types & Perks of Each
 
 See devlocal.io for current info about each membership level.
 
-###Tours
+####Tours
 
 Show them around the space, including conference rooms and phone booths and the back deck. Ask them what they do/are working on. Collect their personal information on the sign in sheet before the tour, and then give them carter@devlocal.io and info@devlocal.io and tell them to email if they are interested, want to sign up, or have questions. Include their contact info in your emailed report at the end of the day, including what you thought about them as potential members.
 
@@ -151,27 +151,27 @@ Organizers should arrange with cleaning folks (currently Emma) 48 hours in advan
 
 Extra keys for all of the offices are located in the grey side desk, directly under the plant. They should mostly have tags on them to indicate which door them unlock but are occasionally ambiguously tagged so you may need to play around with them. 
 
-###How to lock the front door
+####How to lock the front door
 
-###Bathroom keys
+####Bathroom keys
 
 They are attached to NES controllers hanging near the breakfast bar and should, incidentally, be sanitized on a regular basis. Extra bathroom keys are in the aforementioned cupboard nook.
 
-###Front door keys
+####Front door keys
 
 Only full time members get their own keys. If someone asks for a key, and they’re not a new, paid full time member, have them email Autumn and explain what happened to their old key, as we may charge them for replacement. In all cases, write down their name if you give them a key, and check their name against the membership list in Cobot to make sure they are authorized to have one.
 
-###Private Office Keys
+####Private Office Keys
 
 If someone loses their private office key, just give them another copy. If we’re running low on extra copies for their office, send Autumn an email and let her know. The only people with private offices right now are Colin and his two team mates, Lauren and Mel (with Formidable), and Alex, Ryan Eastridge, and Ryan Roemer (also with Formidable).
 
-###Times to Lock & Unlock
+####Times to Lock & Unlock
 
 Doors unlock with the first people in the morning (usually Ryan Roemer is here by 6 am). Even if there are people here, lock the front door at 9 pm. Doors stay locked on the weekend.
 
 ###AUDIO & VISUAL
 
-###Speakers in the main area
+####Speakers in the main area
 
 The receiver is on top of the lockers; power on. The correct input setting on the receiver for the sound input jack by the front desk is CD; if you cycle through the input options, CD is the correct one. There is a 5-speaker surround sound system for the space, with a subwoofer on the floor to the right of the grey lockers. The sub has its own volume so can be turned up or down depending on the tenor of the event/music, etc. 
 
@@ -179,39 +179,39 @@ There is an office iPhone that is filled with music for the space during the day
 
 There is also a podium microphone available to be plugged into the speakers. The input at the podium is different from the input at the front desk (not sure what it is off the top of my head, but cycling through the inputs on the receiver should get you the answer you seek).
 
-###Projector
+####Projector
 
 The hook up for the projector is at the podium; there are HDMI and VGA as well as some adapters for mini-DVI and something else. The remote to power it on is also on the podium. You'll need to turn off overhead lights by the door for effective projector use.
 
 ###WIFI & TECHNICAL SUPPORT
 
-###What to do if the internet slows down
+####What to do if the internet slows down
 
 Carter or Ryan Roemer are the folks who’ve set up the internet to make it faster and so if it slows down, you should talk to them.
  
-###What to do if the internet goes out
+####What to do if the internet goes out
 
 The routers are both on top of the lockers, they are all the crap in the conference room with the storage, and there is one in the ceiling tiles in the Formidable Labs office. Power everything off. This means turn off the power strips in the conference room and manually depower the other two routers. Wait. Power everything back on. 
 
-###Printing
+####Printing
 
 The Epson printer is on the wireless network, and should connect for folks automatically. There is extra printer paper in the storage area. People with older computers may need to install a driver.
 
 ###KITCHEN
 
-###Trash, Compost & Recycling
+####Trash, Compost & Recycling
 
 The receptacles for the trash, compost, and unsorted recycling and broken-down cardboard are located behind the building in the alley.  There are clean compost bags and special SimpleHuman trash bags under the kitchen sink; there are small trash/recycle bags on the righthand metal shelf in the storage area in the conference room; in the same area, you’ll find extra big black trash bags in case you need them. There are large event trash/recycle bins (line with black liners) on top of the red storage shelving in the conference room.
 
-###Dishwasher & Dishes
+####Dishwasher & Dishes
 
 The dishwasher is preset with how it likes to run; you’ll find liquid dish detergent under the kitchen sink. There are a limited number of coffee cups, so keep an eye on supply and run as needed, even if the machine is not totally full. Smaller mugs hang on the hooks over the coffee/tea station; larger mugs/steins hang over the kitchen sink; overflow live in the cupboard. Put away dry, clean dishes as needed. Round up dirty abandoned cups and mugs from the conference room, Formidable Labs, private offices, etc.
 
-###Supplies for Coffee/Tea
+####Supplies for Coffee/Tea
 
 There is extra tea, coffee (in bags and in K-Cups) and creamer in the kitchen in the lazy susan cabinet. If those stores are exhausted, there is some back up in the storage area of the conference room, on the right hand metal shelf. The current opened bag of coffee beans lives on the coffee bar by the carafe. Tougo Coffee folks bring more coffee and tea by on a weekly basis.
 
-###Cleaning Supplies
+####Cleaning Supplies
 
 Under the sink you will find pads for the wet swiffer, glass spray, bleach spray, compost bags, and other misc. cleaning things. In the closet by the lockers you will find a broom, dustpan, a swiffer thing, and a brand new vaccum. The cleaning people come twice a week, but it is entirely possible that you will need to do touchups on the floors in between if they get gross. The bathroom is cleaned by the office building folks, but if it is gross or out of supplies you can let Dan or Michael know (see contact info at the end of this document).
 
@@ -286,12 +286,21 @@ If we just need general additional stuff like half & half or sugar, send an emai
 ###KEY CONTACTS
 
 Carter Rabasa: carter@devlocal.io or 202-285-6865
+
 Ryan Eastridge: ryan@eastridge.me or 206-898-1206
+
 Autumn Sakai: autumn.sakai@formidablelabs.com or 425-220-3587
+
 Emma Rodman: emma.rodman@gmail.com or 208-869-4186
+
 Ryan Roemer: (in the office? What is his contact info?)
+
 Todd Durboraw: todd.durboraw@formidablelabs.com or 360-731-8926
+
 Dan (building owner/manager): DocSr@msn.com (gets emails on his cell)
+
 Michael (building maintenance): 206-427-1651
+
 Myron (our contractor): 206-354-6095
+
 Alan Stearns (Open Device Lab): stearns@adobe.com
